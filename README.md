@@ -33,7 +33,7 @@ This is a **demo e-commerce store** created using **WooCommerce** on **WordPress
 
 ### 🧩 Homepage
 
-![Homepage Screenshot](screenshots/home.png)
+![Homepage Screenshot](screenshots/home.jpg)
 ![Home Product Section Screenshot](screenshots/home_prod.png)
 ![Homepage Testimonials Screenshot](screenshots/home_testimonials.png)
 ![Homepage Quick Contact Screenshot](screenshots/home_quick_contact.png)
